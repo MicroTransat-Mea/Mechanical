@@ -1,1 +1,1 @@
-# Mechanical
+# MicroTransat-Mea
